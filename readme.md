@@ -1,8 +1,9 @@
 # Nombre del proyecto
+proyecto kedrian
 ## Descripción
 Aplicación desarrollada durante el Técnico en Programación de Software.
 ## Objetivo
-Explicar qué problema resuelve o qué práctica demuestra.
+
 ## Tecnologías
 - HTML
 - CSS
@@ -25,6 +26,7 @@ Explicar brevemente las carpetas principales.
 4. Iniciar Apache.
 5. Abrir la aplicación desde localhost.
 ## Autor
-Nombre del aprendiz
+Adrian David Garzón Gómez
+Kener Johann Alvarado Sanchez 
 Ficha 3538620
 Técnico en Programación de Software - SENA
